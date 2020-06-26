@@ -1,0 +1,20 @@
+{
+  "name": "sampadminsbot",
+  "version": "0.0.0",
+  "description": "SAB",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "moment": "^2.26.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "vk-io": "^4.0.0-rc.30"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "https://vk.com/id171745503",
+  "license": "ISC"
+}
